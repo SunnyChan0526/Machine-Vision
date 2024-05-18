@@ -10,3 +10,7 @@ Medial axis skeletonization
 - Find the medial axis.
 ## hw4
 Watershed Segmentation
+## hw5
+- Mean Filter
+- Median Filter
+- Gaussian 2D Filter
