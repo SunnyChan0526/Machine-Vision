@@ -14,3 +14,5 @@ Watershed Segmentation
 - Mean Filter
 - Median Filter
 - Gaussian 2D Filter
+## hw6
+- Canny Detection
